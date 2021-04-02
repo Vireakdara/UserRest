@@ -1,4 +1,4 @@
-package com.kshrd.user.restcontroller;
+package com.kshrd.user.rest.restcontroller;
 import com.kshrd.user.service.imp.UserServiceImp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

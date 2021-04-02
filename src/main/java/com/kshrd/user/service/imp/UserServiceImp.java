@@ -22,7 +22,7 @@ public class UserServiceImp implements UserService {
         if (isInserted)
             return user;
         else
-            return  null;
+            return null;
 
         }
     }
